@@ -1,0 +1,19 @@
+@extends('layouts.adminNav')
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<center>
+<h1>Welcome to the Admin Page</h1>
+</center>
